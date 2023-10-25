@@ -1,0 +1,58 @@
+/* Manrope */
+@font-face {
+  font-family: "Manrope";
+  src: url("../assets/fonts/Manrope-Light.ttf") format("truetype");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Manrope";
+  src: url("../assets/fonts/Manrope-Regular.ttf") format("truetype");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Manrope";
+  src: url("../assets/fonts/Manrope-Medium.ttf") format("truetype");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Manrope";
+  src: url("../assets/fonts/Manrope-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Manrope";
+  src: url("../assets/fonts/Manrope-Bold.ttf") format("truetype");
+  font-weight: 700;
+}
+
+/* Roboto */
+@font-face {
+  font-family: "Roboto";
+  src: url("../assets/fonts/Roboto-Regular.ttf") format("truetype");
+  font-weight: 400;
+}
+
+/* Ubuntu */
+@font-face {
+  font-family: "Ubuntu";
+  src: url("../assets/fonts/Ubuntu-Medium.ttf") format("truetype");
+  font-weight: 500;
+}
+
+/* Inter */
+@font-face {
+  font-family: "Inter";
+  src: url("../assets/fonts/Inter-Regular.ttf") format("truetype");
+  font-weight: 400;
+}
+
+/* Nunito */
+@font-face {
+  font-family: "Nunito";
+  src: url("../assets/fonts/Nunito-Regular.ttf") format("truetype");
+  font-weight: 400;
+}
